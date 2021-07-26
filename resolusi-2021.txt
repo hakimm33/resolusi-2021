@@ -2,3 +2,5 @@ RESOLUSI 2021
 - Konsisten menonton video turorial pemrograman 3x sehari
 - Praktek ngoding 2 jam sehari
 - Membuat website portfolio
+- Konsisten untuk mempelajari bahasa pemrograman PHP-Laravel
+- dalam 1 bulan kedepan dapat membuat website sederhana
